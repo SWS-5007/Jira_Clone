@@ -12,7 +12,7 @@
 
 ![App screenshot](https://i.ibb.co/W3qVvCn/jira-optimized.jpg)
 
-## What is this and who is it for 🤷‍♀️
+## What is this and who is it for 🤷‍♀
 
 I do React consulting and this is a showcase product I've built in my spare time. It's a very good example of modern, real-world React codebase.
 
@@ -28,7 +28,7 @@ There are many showcase/example React projects out there but most of them are wa
 - Client written in Babel powered JavaScript
 - API written in TypeScript and using TypeORM
 
-## Setting up development environment 🛠
+## Setting up development environment 
 
 - Install [postgreSQL](https://www.postgresql.org/) if you don't have it already and create a database named `jira_development`.
 - `git clone https://github.com/oldboyxx/jira_clone.git`
